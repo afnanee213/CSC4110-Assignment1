@@ -1,4 +1,8 @@
+
 #Github and git conflict
+
+# Github and git
+
 # CSC4110-Assignment1
 
 <h1>Name: Affan Atif</h1>
